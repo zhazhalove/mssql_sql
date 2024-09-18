@@ -1,4 +1,5 @@
 --- returns the backup chain for a supplied database
+--- 9.18.2024
 
 USE msdb;
 GO
